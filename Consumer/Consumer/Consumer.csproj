@@ -7,10 +7,9 @@
 
     <ItemGroup>
         <PackageReference Include="ContractLibrary" Version="1.0.0" />
-        <PackageReference Include="MassTransit" Version="7.0.6" />
-        <PackageReference Include="MassTransit.RabbitMQ" Version="7.0.6" />
+        <PackageReference Include="MassTransit.AspNetCore" Version="5.5.6" />
+        <PackageReference Include="MassTransit.RabbitMQ" Version="5.5.6" />
         <PackageReference Include="Microsoft.AspNetCore.App" />
         <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
     </ItemGroup>
-
 </Project>
